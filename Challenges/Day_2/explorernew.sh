@@ -20,4 +20,4 @@ while true; do
     # Calculate and print the character count for the input line
     char_count=$(echo -n "$input" | wc -m)
     echo "Character Count: $char_count"
-done 
+done
